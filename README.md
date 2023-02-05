@@ -24,22 +24,22 @@
 | [simpleCalculator](https://github.com/cleibp/simpleCalculator)                    | Simples Calculadora criada com Vanilla "Javascript Puro"   |
 | [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puros          |
 | [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
-| [sample-html](https://github.com/cleibp/sample-html)                              | Sample about sintaxe basic html                            |
-| [sample-css](https://github.com/cleibp/sample-css)                                | Sample about sintaxe basic css                             |
-| [sample-js](https://github.com/cleibp/sample-js)                                  | Sample about sintaxe basic js                              |
-| [sample-jquery](https://github.com/cleibp/sample-jquery)                          | Sample about sintaxe basic jquery                          |
-| [sample-ajax](https://github.com/cleibp/sample-ajax)                              | Sample about sintaxe basic ajax                            |
-| [sample-json](https://github.com/cleibp/sample-json)                              | Sample about sintaxe basic JSON                            |
-| [sample-xml](https://github.com/cleibp/sample-xml)                                | Sample about sintaxe basic xml                             |
-| [sample-yml](https://github.com/cleibp/sample-yml)                                | Sample about sintaxe basic yml                             |
-| [sample-frameworksCSS](https://github.com/cleibp/sample-frameworksCSS)            | Sample about sintaxe basic framworks css                   |
-| [sample-pug](https://github.com/cleibp/sample-pug)                                | Sample about sintaxe basic pug                             |
-| [sample-haml](https://github.com/cleibp/sample-haml)                              | Sample about sintaxe basic haml                            |
-| [sample-stylus](https://github.com/cleibp/sample-stylus)                          | Sample about sintaxe basic stylus                          |
-| [sample-sass](https://github.com/cleibp/sample-sass)                              | Sample about sintaxe basic sass                            |
-| [sample-less](https://github.com/cleibp/sample-less)                              | Sample about sintaxe basic less                            |
-| [sample-ts](https://github.com/cleibp/sample-ts)                                  | Sample about sintaxe basic ts                              |
-| [underConstruction](https://github.com/cleibp/underConstruction)                  | Template padrão página em construção                       |
+| [sample-html](https://github.com/cleibp/sample-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
+| [sample-css](https://github.com/cleibp/sample-css)                                | Exemplificação da sintaxe geral e básica da Linguagem de Estilo CSS                             |
+| [sample-js](https://github.com/cleibp/sample-js)                                  | Exemplificação da sintaxe geral e básica da Linguagem Javascript                              |
+| [sample-jquery](https://github.com/cleibp/sample-jquery)                          | Exemplificação da sintaxe geral e básica da Biblioteca JQuery                          |
+| [sample-ajax](https://github.com/cleibp/sample-ajax)                              | Exemplificação da sintaxe geral e básica do Ajax                            |
+| [sample-json](https://github.com/cleibp/sample-json)                              | Exemplificação da sintaxe geral e básica do JSON                            |
+| [sample-xml](https://github.com/cleibp/sample-xml)                                | Exemplificação da sintaxe geral e básica do XML                             |
+| [sample-yml](https://github.com/cleibp/sample-yml)                                | Exemplificação da sintaxe geral e básica do YML                             |
+| [sample-frameworksCSS](https://github.com/cleibp/sample-frameworksCSS)            | Exemplificação da sintaxe geral e básica dos Frameworks CSS                   |
+| [sample-pug](https://github.com/cleibp/sample-pug)                                | Exemplificação da sintaxe geral e básica do Pre processador PUG                             |
+| [sample-haml](https://github.com/cleibp/sample-haml)                              | Exemplificação da sintaxe geral e básica do Pre processador HAML                            |
+| [sample-stylus](https://github.com/cleibp/sample-stylus)                          | Exemplificação da sintaxe geral e básica do Pre processador STYLUS                          |
+| [sample-sass](https://github.com/cleibp/sample-sass)                              | Exemplificação da sintaxe geral e básica do Pre processador SASS                            |
+| [sample-less](https://github.com/cleibp/sample-less)                              | Exemplificação da sintaxe geral e básica do Pre processador LESS                            |
+| [sample-ts](https://github.com/cleibp/sample-ts)                                  | Exemplificação da sintaxe geral e básica do Pre processador Typescript                              |
+| [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                       |
 
 
   ### 📱 MOBILE
