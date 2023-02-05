@@ -4,7 +4,7 @@
   
 ### 🖥️ DESKTOP
   
-| Name                                                                              | Short Description                                          |
+| Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [basic-pascal](https://github.com/cleibp/basic-pascal)                            | Code sample                                                |
 | [basic-c](https://github.com/cleibp/basic-c)                                      | Code sample                                                |
@@ -14,9 +14,9 @@
   
   
   ### 🌐 WEB (Back e Front)
-| Name                                                                              | Short Description                                          |
+| Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST Node de Notícias                          |
+| [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST Node de Notícias                           |
 | [social-card](https://github.com/cleibp/social-card)                              | Portfólio                                                  |
 | [social-networks](https://github.com/cleibp/social-networks)                      | Portfólio                                                  |
 | [cv](https://github.com/cleibp/cv)                                                | Portfólio                                                  |
@@ -43,13 +43,13 @@
 
 
   ### 📱 MOBILE
-| Name                                                                              | Short Description                                          |
+| Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 |                                                                                   |                                                            |
 
 
   ### 🗒 DOC
-| Name                                                                              | Short Description                                          |
+| Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [content-organizer](https://github.com/cleibp/content-organizer)                  | Organizador de Conteúdo                                    |
 | [knowledgeBase](https://github.com/cleibp/knowledgeBase)                          | Base de conhecimento contendo sintaxe de algumas linguagens|
@@ -58,7 +58,7 @@
 | [quick-guide](https://github.com/cleibp/quick-guide)                              | Guia Rápido para desenvolvimento                           |
   
   ### 🔧 FORKS
-| Name                                                                              | Short Description                                          |
+| Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [kube-news](https://github.com/cleibp/kube-news)                                  | KUBERNETES                                                 |
 | [conversao-temperatura](https://github.com/cleibp/conversao-temperatura)          | Conversor de temperatura                                   |
@@ -75,7 +75,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleibp@gmail.com)](mailto:cleibp@gmail.com)
 
 Feito com muito ❤️☕👨🏻‍💻 por Cleiton Paiva
-
-  
-  
-  
