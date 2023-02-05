@@ -6,11 +6,11 @@
   
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [basic-pascal](https://github.com/cleibp/basic-pascal)                            | Code sample                                                |
-| [basic-c](https://github.com/cleibp/basic-c)                                      | Code sample                                                |
-| [basic-cplusplus](https://github.com/cleibp/basic-cplusplus)                      | Code sample                                                |
-| [basic-csharp](https://github.com/cleibp/basic-csharp)                            | Code sample                                                |
-| [basic-java](https://github.com/cleibp/basic-java)                                | Code sample                                                |
+| [basic-pascal](https://github.com/cleibp/basic-pascal)                            | Exemplificação da sintaxe geral e básica da Linguagem Pascal                                                |
+| [basic-c](https://github.com/cleibp/basic-c)                                      | Exemplificação da sintaxe geral e básica da Linguagem C                                                |
+| [basic-cplusplus](https://github.com/cleibp/basic-cplusplus)                      | Exemplificação da sintaxe geral e básica da Linguagem C++                                                |
+| [basic-csharp](https://github.com/cleibp/basic-csharp)                            | Exemplificação da sintaxe geral e básica da Linguagem C#                                                |
+| [basic-java](https://github.com/cleibp/basic-java)                                | Exemplificação da sintaxe geral e básica da Linguagem Java                                                |
   
   
   ### 🌐 WEB (Back e Front)
