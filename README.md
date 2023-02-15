@@ -59,6 +59,7 @@
 | [terraform-guide](https://github.com/cleibp/terraform-guide)                      | Basic command Terraform                                    |
 | [ansible-guide](https://github.com/cleibp/ansible-guide)                          | Basic command Ansible                                      |
 | [sql-guide](https://github.com/cleibp/sql-guide)                                  | Basic command SQL                                          |
+| [commits-guide](https://github.com/cleibp/commits-guide)                          | Basic command commits                                      |
 | [quick-guide](https://github.com/cleibp/quick-guide)                              | Guia Rápido para desenvolvimento                           |
   
   ### 🔧 FORKS
