@@ -55,15 +55,16 @@
 | [knowledgeBase](https://github.com/cleibp/knowledgeBase)                          | Base de conhecimento contendo sintaxe de algumas linguagens|
 | [baseOfLinks](https://github.com/cleibp/baseOfLinks)                              | Documentação de links úteis no processo de desenvolvimento |
 | [quick-guide](https://github.com/cleibp/quick-guide)                              | Guia Rápido para desenvolvimento                           |
-| [linux-guide](https://github.com/cleibp/commits-guide)                            | Basic command linux *                                      |
-| [git-guide](https://github.com/cleibp/commits-guide)                              | Basic command git *                                        |
-| [commits-guide](https://github.com/cleibp/commits-guide)                          | Basic command commits                                      |
-| [version-guide](https://github.com/cleibp/commits-guide)                          | Basic command version *                                    |
-| [sql-guide](https://github.com/cleibp/sql-guide)                                  | Basic command SQL                                          |
-| [docker-guide](https://github.com/cleibp/docker-guide)                            | Basic command guide                                        |
-| [kubernetes-guide](https://github.com/cleibp/kubernetes-guide)                    | Basic command kubernetes                                   |
-| [terraform-guide](https://github.com/cleibp/terraform-guide)                      | Basic command Terraform                                    |
-| [ansible-guide](https://github.com/cleibp/ansible-guide)                          | Basic command Ansible                                      |
+| [linux-guide](https://github.com/cleibp/linux-guide)                              | Exemplo Básico de comandos linux                           |
+| [git-guide](https://github.com/cleibp/git-guide)                                  | Exemplo Básico de comandos git                             |
+| [commits-guide](https://github.com/cleibp/commits-guide)                          | Exemplo Básico de commits                                  |
+| [version-guide](https://github.com/cleibp/version-guide)                          | Exemplo Básico de versão                                   |
+| [sql-guide](https://github.com/cleibp/sql-guide)                                  | Exemplo Básico de comandos SQL                             |
+| [vagrant-guide](https://github.com/cleibp/vagrant-guide)                          | Exemplo Básico de comandos Vagrant                         |
+| [docker-guide](https://github.com/cleibp/docker-guide)                            | Exemplo Básico de comandos Docker                          |
+| [kubernetes-guide](https://github.com/cleibp/kubernetes-guide)                    | Exemplo Básico de comandos kubernetes                      |
+| [terraform-guide](https://github.com/cleibp/terraform-guide)                      | Exemplo Básico de comandos Terraform                       |
+| [ansible-guide](https://github.com/cleibp/ansible-guide)                          | Exemplo Básico de comandos Ansible                         |
 
 
 
