@@ -17,6 +17,7 @@
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST Node de Notícias                           |
+| [portfolio](https://github.com/cleibp/portfolio)                                  | Portfólio                                                  |
 | [social-card](https://github.com/cleibp/social-card)                              | Portfólio                                                  |
 | [social-networks](https://github.com/cleibp/social-networks)                      | Portfólio                                                  |
 | [cv](https://github.com/cleibp/cv)                                                | Portfólio                                                  |
