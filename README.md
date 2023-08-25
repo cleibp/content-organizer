@@ -27,19 +27,7 @@
 | [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
 | [sample-html](https://github.com/cleibp/sample-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
 | [sample-css](https://github.com/cleibp/sample-css)                                | Exemplificação da sintaxe geral e básica da Linguagem de Estilo CSS                             |
-| [sample-js](https://github.com/cleibp/sample-js)                                  | Exemplificação da sintaxe geral e básica da Linguagem Javascript                              |
-| [sample-jquery](https://github.com/cleibp/sample-jquery)                          | Exemplificação da sintaxe geral e básica da Biblioteca JQuery                          |
-| [sample-ajax](https://github.com/cleibp/sample-ajax)                              | Exemplificação da sintaxe geral e básica do Ajax                            |
-| [sample-json](https://github.com/cleibp/sample-json)                              | Exemplificação da sintaxe geral e básica do JSON                            |
-| [sample-xml](https://github.com/cleibp/sample-xml)                                | Exemplificação da sintaxe geral e básica do XML                             |
-| [sample-yml](https://github.com/cleibp/sample-yml)                                | Exemplificação da sintaxe geral e básica do YML                             |
 | [sample-frameworksCSS](https://github.com/cleibp/sample-frameworksCSS)            | Exemplificação da sintaxe geral e básica dos Frameworks CSS                   |
-| [sample-pug](https://github.com/cleibp/sample-pug)                                | Exemplificação da sintaxe geral e básica do Pre processador PUG                             |
-| [sample-haml](https://github.com/cleibp/sample-haml)                              | Exemplificação da sintaxe geral e básica do Pre processador HAML                            |
-| [sample-stylus](https://github.com/cleibp/sample-stylus)                          | Exemplificação da sintaxe geral e básica do Pre processador STYLUS                          |
-| [sample-sass](https://github.com/cleibp/sample-sass)                              | Exemplificação da sintaxe geral e básica do Pre processador SASS                            |
-| [sample-less](https://github.com/cleibp/sample-less)                              | Exemplificação da sintaxe geral e básica do Pre processador LESS                            |
-| [sample-ts](https://github.com/cleibp/sample-ts)                                  | Exemplificação da sintaxe geral e básica do Pre processador Typescript                              |
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                       |
 
 
