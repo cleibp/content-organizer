@@ -26,8 +26,6 @@
 | [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puros          |
 | [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
 | [sample-html](https://github.com/cleibp/sample-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [sample-css](https://github.com/cleibp/sample-css)                                | Exemplificação da sintaxe geral e básica da Linguagem de Estilo CSS                             |
-| [sample-frameworksCSS](https://github.com/cleibp/sample-frameworksCSS)            | Exemplificação da sintaxe geral e básica dos Frameworks CSS                   |
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                       |
 
 
