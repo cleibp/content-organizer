@@ -61,8 +61,6 @@
 | [kube-news](https://github.com/cleibp/kube-news)                                  | KUBERNETES                                                 |
 | [conversao-temperatura](https://github.com/cleibp/conversao-temperatura)          | Conversor de temperatura                                   |
 | [emoji-cheat-sheet](https://github.com/cleibp/emoji-cheat-sheet)                  | Emoji                                                      |
-| [mysql-comandos](https://github.com/cleibp/mysql-comandos)                        | MySQL Comandos                                             |
-
 
 
 ## Contatos
