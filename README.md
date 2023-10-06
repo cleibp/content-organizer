@@ -35,16 +35,16 @@
 | [html5-accordion](https://github.com/cleibp/html5-accordion)                      | Exemplificação de HTML5 | Accordion |
 | [soft-hypen](https://github.com/cleibp/soft-hypen)                                | Exemplificação de Soft Hypen |
 | [attribute-selector](https://github.com/cleibp/attribute-selector)                | Exemplificação de Attribute Selector |
-| [button](https://github.com/cleibp/button)                                        | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [pseudo-class](https://github.com/cleibp/pseudo-class)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [button-style](https://github.com/cleibp/button-style)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [title](https://github.com/cleibp/title)                                          | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [validate-input](https://github.com/cleibp/validate-input)                        | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [triangle](https://github.com/cleibp/triangle)                                    | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [button-neon](https://github.com/cleibp/button-neon)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [gradient-text](https://github.com/cleibp/gradient-text)                          | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [cover-flip](https://github.com/cleibp/cover-flip)                                | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
-| [line-around](https://github.com/cleibp/line-around)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [button](https://github.com/cleibp/button)                                        | Exemplificação de Button |
+| [pseudo-class](https://github.com/cleibp/pseudo-class)                            | Exemplificação de Pseudo Class |
+| [button-style](https://github.com/cleibp/button-style)                            | Exemplificação de Button |
+| [title](https://github.com/cleibp/title)                                          | Exemplificação de Title |
+| [validate-input](https://github.com/cleibp/validate-input)                        | Exemplificação de Input com validação |
+| [triangle](https://github.com/cleibp/triangle)                                    | Exemplificação de Triangulo com css |
+| [button-neon](https://github.com/cleibp/button-neon)                              | Exemplificação de um botão neon em css |
+| [gradient-text](https://github.com/cleibp/gradient-text)                          | Exemplificação de gradiente texto |
+| [cover-flip](https://github.com/cleibp/cover-flip)                                | Exemplificação de Cover Flip |
+| [line-around](https://github.com/cleibp/line-around)                              | Exemplificação de Linhas ao redor |
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                            |
 
 
