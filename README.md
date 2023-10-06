@@ -33,6 +33,7 @@
 | [sample2-html](https://github.com/cleibp/sample2-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 2|
 | [sample3-html](https://github.com/cleibp/sample3-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 3|
 | [html5-accordion](https://github.com/cleibp/html5-accordion)                      | Exemplificação de HTML5 | Accordion |
+| [marquee-html](https://github.com/cleibp/marquee-html)                            | Exemplificação de marquee em HTML |
 | [soft-hypen](https://github.com/cleibp/soft-hypen)                                | Exemplificação de Soft Hypen |
 | [attribute-selector](https://github.com/cleibp/attribute-selector)                | Exemplificação de Attribute Selector |
 | [button](https://github.com/cleibp/button)                                        | Exemplificação de Button |
@@ -59,6 +60,13 @@
 | [flexbox-flex-basis](https://github.com/cleibp/flexbox-flex-basis)                | Tabela Periódica construída com HTML5 e CSS puros          |
 | [flexbox-flex-grow](https://github.com/cleibp/flexbox-flex-grow)                  | Tabela Periódica construída com HTML5 e CSS puros          |
 | [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puros          |
+
+| [css-grid-playground](https://github.com/cleibp/css-grid-playground)                    | Tabela Periódica construída com HTML5 e CSS puros          |
+| [css-grid-html5](https://github.com/cleibp/css-grid-html5)                         | Tabela Periódica construída com HTML5 e CSS puros          |
+| [css-grid-div](https://github.com/cleibp/css-grid-div)                           | Tabela Periódica construída com HTML5 e CSS puros          |
+| [css-grid-html5-css](https://github.com/cleibp/css-grid-html5-css)                     | Tabela Periódica construída com HTML5 e CSS puros          |
+
+
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
 
 
