@@ -27,7 +27,8 @@
 | [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
 
 ### 🌐 WEB (Front)
-
+| Nome                                                                              | Descrição Curta                                            |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [sample-html](https://github.com/cleibp/sample-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 1 
 | [sample2-html](https://github.com/cleibp/sample2-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
 | [sample3-html](https://github.com/cleibp/sample3-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
