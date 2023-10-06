@@ -33,8 +33,8 @@
 | [sample2-html](https://github.com/cleibp/sample2-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 2|
 | [sample3-html](https://github.com/cleibp/sample3-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 3|
 | [html5-accordion](https://github.com/cleibp/html5-accordion)                      | Exemplificação de HTML5 | Accordion |
-| [marquee-html](https://github.com/cleibp/marquee-html)                            | Exemplificação de marquee em HTML |
 | [soft-hypen](https://github.com/cleibp/soft-hypen)                                | Exemplificação de Soft Hypen |
+| [marquee-html](https://github.com/cleibp/marquee-html)                            | Exemplificação de marquee em HTML |
 | [attribute-selector](https://github.com/cleibp/attribute-selector)                | Exemplificação de Attribute Selector |
 | [button](https://github.com/cleibp/button)                                        | Exemplificação de Button |
 | [pseudo-class](https://github.com/cleibp/pseudo-class)                            | Exemplificação de Pseudo Class |
