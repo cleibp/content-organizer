@@ -45,7 +45,6 @@
 | [gradient-text](https://github.com/cleibp/gradient-text)                          | Exemplificação de gradiente texto |
 | [cover-flip](https://github.com/cleibp/cover-flip)                                | Exemplificação de Cover Flip |
 | [line-around](https://github.com/cleibp/line-around)                              | Exemplificação de Linhas ao redor |
-
 | [flexbox-demo](https://github.com/cleibp/flexbox-demo)                            | Modelo template padrão página em construção                            |
 | [flexbox-playground](https://github.com/cleibp/flexbox-playground)                | Modelo template padrão página em construção                            |
 | [flexbox-flex-direction](https://github.com/cleibp/flexbox-flex-direction)        | Modelo template padrão página em construção                            |
@@ -60,7 +59,7 @@
 | [flexbox-flex-basis](https://github.com/cleibp/flexbox-flex-basis)                | Tabela Periódica construída com HTML5 e CSS puros          |
 | [flexbox-flex-grow](https://github.com/cleibp/flexbox-flex-grow)                  | Tabela Periódica construída com HTML5 e CSS puros          |
 | [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puros          |
-| [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                            |
+| [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
 
 
   ### 📱 MOBILE
