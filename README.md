@@ -30,22 +30,22 @@
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [sample-html](https://github.com/cleibp/sample-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 1 
-| [sample2-html](https://github.com/cleibp/sample2-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [sample3-html](https://github.com/cleibp/sample3-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [html5-accordion](https://github.com/cleibp/html5-accordion)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [soft-hypen](https://github.com/cleibp/soft-hypen)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [attribute-selector](https://github.com/cleibp/attribute-selector)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [button](https://github.com/cleibp/button)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [pseudo-class](https://github.com/cleibp/pseudo-class)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [button-style](https://github.com/cleibp/button-style)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [title](https://github.com/cleibp/title)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [validate-input](https://github.com/cleibp/validate-input)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [triangle](https://github.com/cleibp/triangle)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [button-neon](https://github.com/cleibp/button-neon)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [gradient-text](https://github.com/cleibp/gradient-text)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [cover-flip](https://github.com/cleibp/cover-flip)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [line-around](https://github.com/cleibp/line-around)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                       |
+| [sample2-html](https://github.com/cleibp/sample2-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [sample3-html](https://github.com/cleibp/sample3-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [html5-accordion](https://github.com/cleibp/html5-accordion)                      | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [soft-hypen](https://github.com/cleibp/soft-hypen)                                | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [attribute-selector](https://github.com/cleibp/attribute-selector)                | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [button](https://github.com/cleibp/button)                                        | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [pseudo-class](https://github.com/cleibp/pseudo-class)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [button-style](https://github.com/cleibp/button-style)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [title](https://github.com/cleibp/title)                                          | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [validate-input](https://github.com/cleibp/validate-input)                        | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [triangle](https://github.com/cleibp/triangle)                                    | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [button-neon](https://github.com/cleibp/button-neon)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [gradient-text](https://github.com/cleibp/gradient-text)                          | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [cover-flip](https://github.com/cleibp/cover-flip)                                | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [line-around](https://github.com/cleibp/line-around)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML |
+| [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                            |
 
 
   ### 📱 MOBILE
