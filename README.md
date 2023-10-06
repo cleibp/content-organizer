@@ -25,8 +25,11 @@
 | [simpleCalculator](https://github.com/cleibp/simpleCalculator)                    | Simples Calculadora criada com Vanilla "Javascript Puro"   |
 | [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puros          |
 | [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
-| [sample-html](https://github.com/cleibp/sample-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
-| [sample2-html](https://github.com/cleibp/sample2-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
+
+### 🌐 WEB (Front)
+
+| [sample-html](https://github.com/cleibp/sample-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 1 
+| [sample2-html](https://github.com/cleibp/sample2-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
 | [sample3-html](https://github.com/cleibp/sample3-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
 | [html5-accordion](https://github.com/cleibp/html5-accordion)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
 | [soft-hypen](https://github.com/cleibp/soft-hypen)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML                            |
