@@ -60,11 +60,10 @@
 | [flexbox-flex-basis](https://github.com/cleibp/flexbox-flex-basis)                | Tabela Periódica construída com HTML5 e CSS puros          |
 | [flexbox-flex-grow](https://github.com/cleibp/flexbox-flex-grow)                  | Tabela Periódica construída com HTML5 e CSS puros          |
 | [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puros          |
-
-| [css-grid-playground](https://github.com/cleibp/css-grid-playground)                    | Tabela Periódica construída com HTML5 e CSS puros          |
-| [css-grid-html5](https://github.com/cleibp/css-grid-html5)                         | Tabela Periódica construída com HTML5 e CSS puros          |
-| [css-grid-div](https://github.com/cleibp/css-grid-div)                           | Tabela Periódica construída com HTML5 e CSS puros          |
-| [css-grid-html5-css](https://github.com/cleibp/css-grid-html5-css)                     | Tabela Periódica construída com HTML5 e CSS puros          |
+| [css-grid-playground](https://github.com/cleibp/css-grid-playground)              | Exemplificação de CSS GRID                                 |
+| [css-grid-html5](https://github.com/cleibp/css-grid-html5)                        | Exemplificação de CSS GRID                                 |
+| [css-grid-div](https://github.com/cleibp/css-grid-div)                            | Exemplificação de CSS GRID                                 |
+| [css-grid-html5-css](https://github.com/cleibp/css-grid-html5-css)                | Exemplificação de CSS GRID          |
 
 
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
