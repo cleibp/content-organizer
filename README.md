@@ -60,7 +60,7 @@
 | [flexbox-flex](https://github.com/cleibp/flexbox-flex)                            | Exemplificação de Flexbox          |
 | [flexbox-flex-basis](https://github.com/cleibp/flexbox-flex-basis)                | Exemplificação de Flexbox          |
 | [flexbox-flex-grow](https://github.com/cleibp/flexbox-flex-grow)                  | Exemplificação de Flexbox          |
-| [periodicTable](https://github.com/cleibp/periodicTable)                          | Exemplificação de Flexbox          |
+| [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construida com css/flexbox          |
 | [css-grid-playground](https://github.com/cleibp/css-grid-playground)              | Exemplificação de CSS GRID                                 |
 | [css-grid-html5](https://github.com/cleibp/css-grid-html5)                        | Exemplificação de CSS GRID                                 |
 | [css-grid-div](https://github.com/cleibp/css-grid-div)                            | Exemplificação de CSS GRID                                 |
