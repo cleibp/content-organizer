@@ -48,23 +48,23 @@
 | [line-around](https://github.com/cleibp/line-around)                              | Exemplificação de Linhas ao redor |
 | [flexbox-demo](https://github.com/cleibp/flexbox-demo)                            | Exemplificação de Flexbox         |
 | [flexbox-playground](https://github.com/cleibp/flexbox-playground)                | Exemplificação de Flexbox         |
-| [flexbox-flex-direction](https://github.com/cleibp/flexbox-flex-direction)        | Exemplificação de Flexbox                            |
-| [flexbox-flew-flow](https://github.com/cleibp/flexbox-flew-flow)                  | Exemplificação de Flexbox                            |
-| [flexbox-justify-content](https://github.com/cleibp/flexbox-justify-content)      | Exemplificação de Flexbox                            |
-| [flexbox-flex-wrap](https://github.com/cleibp/flexbox-flex-wrap)                  | Exemplificação de Flexbox                            |
+| [flexbox-flex-direction](https://github.com/cleibp/flexbox-flex-direction)        | Exemplificação de Flexbox         |
+| [flexbox-flew-flow](https://github.com/cleibp/flexbox-flew-flow)                  | Exemplificação de Flexbox         |
+| [flexbox-justify-content](https://github.com/cleibp/flexbox-justify-content)      | Exemplificação de Flexbox         |
+| [flexbox-flex-wrap](https://github.com/cleibp/flexbox-flex-wrap)                  | Exemplificação de Flexbox          |
 | [flexbox-align-items](https://github.com/cleibp/flexbox-align-items)              | Exemplificação de Flexbox          |
+| [flexbox-align-content](https://github.com/cleibp/flexbox-align-content)          | Exemplificação de Flexbox          |
+| [flexbox-align-self](https://github.com/cleibp/flexbox-align-self)                | Exemplificação de Flexbox          |
 | [flexbox-order](https://github.com/cleibp/flexbox-order)                          | Exemplificação de Flexbox       |
 | [flexbox-shrink](https://github.com/cleibp/flexbox-shrink)                        | Exemplificação de Flexbox          |
 | [flexbox-flex](https://github.com/cleibp/flexbox-flex)                            | Exemplificação de Flexbox          |
 | [flexbox-flex-basis](https://github.com/cleibp/flexbox-flex-basis)                | Exemplificação de Flexbox          |
 | [flexbox-flex-grow](https://github.com/cleibp/flexbox-flex-grow)                  | Exemplificação de Flexbox          |
-| [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puro          |
+| [periodicTable](https://github.com/cleibp/periodicTable)                          | Exemplificação de Flexbox          |
 | [css-grid-playground](https://github.com/cleibp/css-grid-playground)              | Exemplificação de CSS GRID                                 |
 | [css-grid-html5](https://github.com/cleibp/css-grid-html5)                        | Exemplificação de CSS GRID                                 |
 | [css-grid-div](https://github.com/cleibp/css-grid-div)                            | Exemplificação de CSS GRID                                 |
 | [css-grid-html5-css](https://github.com/cleibp/css-grid-html5-css)                | Exemplificação de CSS GRID          |
-
-
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
 
 
