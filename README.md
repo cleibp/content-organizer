@@ -46,20 +46,19 @@
 | [gradient-text](https://github.com/cleibp/gradient-text)                          | Exemplificação de gradiente texto |
 | [cover-flip](https://github.com/cleibp/cover-flip)                                | Exemplificação de Cover Flip |
 | [line-around](https://github.com/cleibp/line-around)                              | Exemplificação de Linhas ao redor |
-| [flexbox-demo](https://github.com/cleibp/flexbox-demo)                            | Modelo template padrão página em construção                            |
-| [flexbox-playground](https://github.com/cleibp/flexbox-playground)                | Modelo template padrão página em construção                            |
-| [flexbox-flex-direction](https://github.com/cleibp/flexbox-flex-direction)        | Modelo template padrão página em construção                            |
-| [flexbox-flew-flow](https://github.com/cleibp/flexbox-flew-flow)                  | Modelo template padrão página em construção                            |
-| [flexbox-justify-content](https://github.com/cleibp/flexbox-justify-content)      | Modelo template padrão página em construção                            |
-| [flexbox-flew-flow](https://github.com/cleibp/flexbox-flew-flow)                  | Modelo template padrão página em construção                            |
-| [flexbox-flex-wrap](https://github.com/cleibp/flexbox-flex-wrap)                  | Modelo template padrão página em construção                            |
-| [flexbox-align-items](https://github.com/cleibp/flexbox-align-items)              | Tabela Periódica construída com HTML5 e CSS puros          |
-| [flexbox-order](https://github.com/cleibp/flexbox-order)                          | Tabela Periódica construída com HTML5 e CSS puros          |
-| [flexbox-shrink](https://github.com/cleibp/flexbox-shrink)                        | Tabela Periódica construída com HTML5 e CSS puros          |
-| [flexbox-flex](https://github.com/cleibp/flexbox-flex)                            | Tabela Periódica construída com HTML5 e CSS puros          |
-| [flexbox-flex-basis](https://github.com/cleibp/flexbox-flex-basis)                | Tabela Periódica construída com HTML5 e CSS puros          |
-| [flexbox-flex-grow](https://github.com/cleibp/flexbox-flex-grow)                  | Tabela Periódica construída com HTML5 e CSS puros          |
-| [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puros          |
+| [flexbox-demo](https://github.com/cleibp/flexbox-demo)                            | Exemplificação de Flexbox         |
+| [flexbox-playground](https://github.com/cleibp/flexbox-playground)                | Exemplificação de Flexbox         |
+| [flexbox-flex-direction](https://github.com/cleibp/flexbox-flex-direction)        | Exemplificação de Flexbox                            |
+| [flexbox-flew-flow](https://github.com/cleibp/flexbox-flew-flow)                  | Exemplificação de Flexbox                            |
+| [flexbox-justify-content](https://github.com/cleibp/flexbox-justify-content)      | Exemplificação de Flexbox                            |
+| [flexbox-flex-wrap](https://github.com/cleibp/flexbox-flex-wrap)                  | Exemplificação de Flexbox                            |
+| [flexbox-align-items](https://github.com/cleibp/flexbox-align-items)              | Exemplificação de Flexbox          |
+| [flexbox-order](https://github.com/cleibp/flexbox-order)                          | Exemplificação de Flexbox       |
+| [flexbox-shrink](https://github.com/cleibp/flexbox-shrink)                        | Exemplificação de Flexbox          |
+| [flexbox-flex](https://github.com/cleibp/flexbox-flex)                            | Exemplificação de Flexbox          |
+| [flexbox-flex-basis](https://github.com/cleibp/flexbox-flex-basis)                | Exemplificação de Flexbox          |
+| [flexbox-flex-grow](https://github.com/cleibp/flexbox-flex-grow)                  | Exemplificação de Flexbox          |
+| [periodicTable](https://github.com/cleibp/periodicTable)                          | Tabela Periódica construída com HTML5 e CSS puro          |
 | [css-grid-playground](https://github.com/cleibp/css-grid-playground)              | Exemplificação de CSS GRID                                 |
 | [css-grid-html5](https://github.com/cleibp/css-grid-html5)                        | Exemplificação de CSS GRID                                 |
 | [css-grid-div](https://github.com/cleibp/css-grid-div)                            | Exemplificação de CSS GRID                                 |
