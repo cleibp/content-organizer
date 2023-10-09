@@ -11,6 +11,16 @@
 | [basic-cplusplus](https://github.com/cleibp/basic-cplusplus)                      | Exemplificação da sintaxe geral e básica da Linguagem C++                                                |
 | [basic-csharp](https://github.com/cleibp/basic-csharp)                            | Exemplificação da sintaxe geral e básica da Linguagem C#                                                |
 | [basic-java](https://github.com/cleibp/basic-java)                                | Exemplificação da sintaxe geral e básica da Linguagem Java                                                |
+| [basic-node](https://github.com/cleibp/basic-node)                                | Exemplificação da sintaxe geral e básica da Linguagem Node                                                |
+| [basic-python](https://github.com/cleibp/basic-python)                            | Exemplificação da sintaxe geral e básica da Linguagem Python                                                |
+| [basic-go](https://github.com/cleibp/basic-go)                                    | Exemplificação da sintaxe geral e básica da Linguagem GO                                                |
+| [basic-lua](https://github.com/cleibp/basic-lua)                                  | Exemplificação da sintaxe geral e básica da Linguagem LUA                                                |
+| [basic-ruby](https://github.com/cleibp/basic-ruby)                                | Exemplificação da sintaxe geral e básica da Linguagem Ruby                                                |
+| [basic-php](https://github.com/cleibp/basic-php)                                  | Exemplificação da sintaxe geral e básica da Linguagem PHP                                                |
+| [basic-perl](https://github.com/cleibp/basic-perl)                                | Exemplificação da sintaxe geral e básica da Linguagem Perl                                                |
+| [basic-kotlin](https://github.com/cleibp/basic-kotlin)                            | Exemplificação da sintaxe geral e básica da Linguagem Kotlin                                                |
+| [basic-dart](https://github.com/cleibp/basic-dart)                                | Exemplificação da sintaxe geral e básica da Linguagem Dart                                                |
+| [basic-rust](https://github.com/cleibp/basic-rust)                                | Exemplificação da sintaxe geral e básica da Linguagem Rust                                                |
   
   
   ### 🌐 BACKEND
