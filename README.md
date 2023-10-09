@@ -2,7 +2,7 @@
 
 ## 🤖 Categorias:
   
-### 🖥️ DESKTOP
+### 🖥️ DESKTOP / LINGUAGENS
   
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -13,13 +13,13 @@
 | [basic-java](https://github.com/cleibp/basic-java)                                | Exemplificação da sintaxe geral e básica da Linguagem Java                                                |
   
   
-  ### 🌐 WEB (Back)
+  ### 🌐 BACKEND
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST Node de Notícias                           |
 
 
-### 🌐 WEB (Front)
+### 🌐 FRONTEND
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [portfolio](https://github.com/cleibp/portfolio)                                  | Portfólio                                                  |
