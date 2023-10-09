@@ -17,18 +17,16 @@
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST Node de Notícias                           |
+
+
+### 🌐 WEB (Front)
+| Nome                                                                              | Descrição Curta                                            |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [portfolio](https://github.com/cleibp/portfolio)                                  | Portfólio                                                  |
 | [social-card](https://github.com/cleibp/social-card)                              | Portfólio                                                  |
 | [social-networks](https://github.com/cleibp/social-networks)                      | Portfólio                                                  |
 | [cv](https://github.com/cleibp/cv)                                                | Portfólio                                                  |
 | [socialProfile](https://github.com/cleibp/socialProfile)                          | Portfólio                                                  |
-| [simpleCalculator](https://github.com/cleibp/simpleCalculator)                    | Simples Calculadora criada com Vanilla "Javascript Puro"   |
-
-| [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
-
-### 🌐 WEB (Front)
-| Nome                                                                              | Descrição Curta                                            |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [sample-html](https://github.com/cleibp/sample-html)                              | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 1 
 | [sample2-html](https://github.com/cleibp/sample2-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 2|
 | [sample3-html](https://github.com/cleibp/sample3-html)                            | Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 3|
@@ -77,6 +75,7 @@
 | [sort-number-vanilla](https://github.com/cleibp/sort-number-vanilla)              | Exemplificação de aplicação de sorteador usando vanilla ou Javascript puro          |
 | [pomo-vanilla](https://github.com/cleibp/pomo-vanilla)                            | Exemplificação de aplicação de pomodoro usando vanilla ou Javascript puro         |
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
+| [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
 
 
   ### 📱 MOBILE
