@@ -85,6 +85,11 @@
 | [contact-bootstrap](https://github.com/cleibp/contact-bootstrap)                  | Exemplificação de formulário de contato usando Bootstrap        |
 | [basic-jquery](https://github.com/cleibp/basic-jquery)                            | Exemplificação da sintaxe basica usando JQUERY             |
 | [basic-js](https://github.com/cleibp/basic-js)                                    | Exemplificação da sintaxe basica usando JAVASCRIPT         |
+| [todo-list-js](https://github.com/cleibp/todo-list-js)                            | Exemplificação de TODO LIST usando javascript/vanilla      |
+| [todo-list-jquery](https://github.com/cleibp/todo-list-jquery)                    | Exemplificação de TODO LIST usando biblioteca jquery       |
+| [todo-list-angular](https://github.com/cleibp/todo-list-angular)                  | Exemplificação de TODO LIST usando framework js angular    |
+| [todo-list-vue](https://github.com/cleibp/todo-list-vue)                          | Exemplificação de TODO LIST usando framework js vue        |
+| [todo-list-react](https://github.com/cleibp/todo-list-react)                      | Exemplificação de TODO LIST usando biblioteca react        |
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
 | [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
 
