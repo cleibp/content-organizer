@@ -65,6 +65,17 @@
 | [css-grid-html5](https://github.com/cleibp/css-grid-html5)                        | Exemplificação de CSS GRID                                 |
 | [css-grid-div](https://github.com/cleibp/css-grid-div)                            | Exemplificação de CSS GRID                                 |
 | [css-grid-html5-css](https://github.com/cleibp/css-grid-html5-css)                | Exemplificação de CSS GRID          |
+| [age-vanilla](https://github.com/cleibp/age-vanilla)                              | Exemplificação de aplicação de calcular a idade usando vanilla ou Javascript puro.          |
+| [alarm-vanilla](https://github.com/cleibp/alarm-vanilla)                          | Exemplificação de aplicação de alarme usando vanilla ou Javascript puro          |
+| [digital-clock-vanilla](https://github.com/cleibp/digital-clock-vanilla)          | Exemplificação de aplicação de relógio digital usando vanilla ou Javascript puro          |
+| [analogic-clock-vanilla](https://github.com/cleibp/analogic-clock-vanilla)        | Exemplificação de aplicação de relógio analógico usando vanilla ou Javascript puro          |
+| [bmi-calculator-vanilla](https://github.com/cleibp/bmi-calculator-vanilla)        | Exemplificação de aplicação de IMC/BMI usando vanilla ou Javascript puro          |
+| [simpleCalculator](https://github.com/cleibp/simpleCalculator)                    | Simples Calculadora criada com Vanilla "Javascript Puro"          |
+| [get-mouse-vanilla](https://github.com/cleibp/get-mouse-vanilla)                  | Exemplificação de aplicação de mouse move usando vanilla ou Javascript puro          |
+| [crono-vanilla](https://github.com/cleibp/crono-vanilla)                          | Exemplificação de aplicação de cronômetro usando vanilla ou Javascript puro          |
+| [game-google-vanilla](https://github.com/cleibp/game-google-vanilla)              | Exemplificação de aplicação de jogo do google offline usando vanilla ou Javascript puro          |
+| [sort-number-vanilla](https://github.com/cleibp/sort-number-vanilla)              | Exemplificação de aplicação de sorteador usando vanilla ou Javascript puro          |
+| [pomo-vanilla](https://github.com/cleibp/pomo-vanilla)                            | Exemplificação de aplicação de pomodoro usando vanilla ou Javascript puro         |
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
 
 
