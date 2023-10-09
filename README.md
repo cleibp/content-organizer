@@ -6,21 +6,36 @@
   
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [basic-pascal](https://github.com/cleibp/basic-pascal)                            | Exemplificação da sintaxe geral e básica da Linguagem Pascal                                                |
-| [basic-c](https://github.com/cleibp/basic-c)                                      | Exemplificação da sintaxe geral e básica da Linguagem C                                                |
-| [basic-cplusplus](https://github.com/cleibp/basic-cplusplus)                      | Exemplificação da sintaxe geral e básica da Linguagem C++                                                |
-| [basic-csharp](https://github.com/cleibp/basic-csharp)                            | Exemplificação da sintaxe geral e básica da Linguagem C#                                                |
-| [basic-java](https://github.com/cleibp/basic-java)                                | Exemplificação da sintaxe geral e básica da Linguagem Java                                                |
-| [basic-node](https://github.com/cleibp/basic-node)                                | Exemplificação da sintaxe geral e básica da Linguagem Node                                                |
-| [basic-python](https://github.com/cleibp/basic-python)                            | Exemplificação da sintaxe geral e básica da Linguagem Python                                                |
-| [basic-go](https://github.com/cleibp/basic-go)                                    | Exemplificação da sintaxe geral e básica da Linguagem GO                                                |
-| [basic-lua](https://github.com/cleibp/basic-lua)                                  | Exemplificação da sintaxe geral e básica da Linguagem LUA                                                |
-| [basic-ruby](https://github.com/cleibp/basic-ruby)                                | Exemplificação da sintaxe geral e básica da Linguagem Ruby                                                |
-| [basic-php](https://github.com/cleibp/basic-php)                                  | Exemplificação da sintaxe geral e básica da Linguagem PHP                                                |
-| [basic-perl](https://github.com/cleibp/basic-perl)                                | Exemplificação da sintaxe geral e básica da Linguagem Perl                                                |
-| [basic-kotlin](https://github.com/cleibp/basic-kotlin)                            | Exemplificação da sintaxe geral e básica da Linguagem Kotlin                                                |
-| [basic-dart](https://github.com/cleibp/basic-dart)                                | Exemplificação da sintaxe geral e básica da Linguagem Dart                                                |
-| [basic-rust](https://github.com/cleibp/basic-rust)                                | Exemplificação da sintaxe geral e básica da Linguagem Rust                                                |
+| [basic-pascal](https://github.com/cleibp/basic-pascal)                            | Exemplificação da sintaxe geral e básica da Linguagem Pascal                |
+| [basic-c](https://github.com/cleibp/basic-c)                                      | Exemplificação da sintaxe geral e básica da Linguagem C                     |
+| [basic-cplusplus](https://github.com/cleibp/basic-cplusplus)                      | Exemplificação da sintaxe geral e básica da Linguagem C++                   |
+| [basic-csharp](https://github.com/cleibp/basic-csharp)                            | Exemplificação da sintaxe geral e básica da Linguagem C#                    |
+| [basic-java](https://github.com/cleibp/basic-java)                                | Exemplificação da sintaxe geral e básica da Linguagem Java                  |
+| [basic-node](https://github.com/cleibp/basic-node)                                | Exemplificação da sintaxe geral e básica da Linguagem Node                  |
+| [basic-python](https://github.com/cleibp/basic-python)                            | Exemplificação da sintaxe geral e básica da Linguagem Python                |
+| [basic-go](https://github.com/cleibp/basic-go)                                    | Exemplificação da sintaxe geral e básica da Linguagem GO                    |
+| [basic-lua](https://github.com/cleibp/basic-lua)                                  | Exemplificação da sintaxe geral e básica da Linguagem LUA                   |
+| [basic-ruby](https://github.com/cleibp/basic-ruby)                                | Exemplificação da sintaxe geral e básica da Linguagem Ruby                  |
+| [basic-php](https://github.com/cleibp/basic-php)                                  | Exemplificação da sintaxe geral e básica da Linguagem PHP                   |
+| [basic-perl](https://github.com/cleibp/basic-perl)                                | Exemplificação da sintaxe geral e básica da Linguagem Perl                  |
+| [basic-kotlin](https://github.com/cleibp/basic-kotlin)                            | Exemplificação da sintaxe geral e básica da Linguagem Kotlin                |
+| [basic-dart](https://github.com/cleibp/basic-dart)                                | Exemplificação da sintaxe geral e básica da Linguagem Dart                  |
+| [basic-rust](https://github.com/cleibp/basic-rust)                                | Exemplificação da sintaxe geral e básica da Linguagem Rust                  |
+| [basic-rust](https://github.com/cleibp/basic-swift)                                | Exemplificação da sintaxe geral e básica da Linguagem Swift                |
+| [poo-cplusplus](https://github.com/cleibp/poo-cplusplus)                          | Exemplificação de POO em C++                                                |
+| [poo-csharp](https://github.com/cleibp/poo-csharp)                                | Exemplificação de POO em C#                                                 |
+| [poo-java](https://github.com/cleibp/poo-java)                                    | Exemplificação de POO em Java                                               |
+| [poo-node](https://github.com/cleibp/poo-node)                                    | Exemplificação de POO em Node                                               |
+| [poo-python](https://github.com/cleibp/poo-python)                                | Exemplificação de POO em Python                                             |
+| [poo-go](https://github.com/cleibp/poo-go)                                        | Exemplificação de POO em GO                                                 |
+| [poo-lua](https://github.com/cleibp/poo-lua)                                      | Exemplificação de POO em Lua                                                |
+| [poo-ruby](https://github.com/cleibp/poo-ruby)                                    | Exemplificação de POO em Ruby                                               |
+| [poo-php](https://github.com/cleibp/poo-php)                                      | Exemplificação de POO em PHP                                                |
+| [poo-perl](https://github.com/cleibp/poo-perl)                                    | Exemplificação de POO em Perl                                               |
+| [poo-kotlin](https://github.com/cleibp/poo-kotlin)                                | Exemplificação de POO em Kotlin                                             |
+| [poo-dart](https://github.com/cleibp/poo-dart)                                    | Exemplificação de POO em Dart                                               |
+| [poo-rust](https://github.com/cleibp/poo-rust)                                    | Exemplificação de POO em Rust                                               |
+| [poo-swift](https://github.com/cleibp/poo-swift)                                  | Exemplificação de POO em Swift                                              |
   
   
   ### 🌐 BACKEND
