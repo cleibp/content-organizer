@@ -79,6 +79,12 @@
 | [stylus-css](https://github.com/cleibp/stylus-css)                                | Exemplificação do pré-processador CSS denominado STYLUS         |
 | [halm-html](https://github.com/cleibp/halm-html)                                  | Exemplificação do pré-processador HTML denominado HALM       |
 | [pug-html](https://github.com/cleibp/pug-html)                                    | Exemplificação do pré-processador HTML denominado PUG        |
+| [contact-js](https://github.com/cleibp/contact-js)                                | Exemplificação de formulário de contato usando Javascript       |
+| [contact-jquery](https://github.com/cleibp/contact-jquery)                        | Exemplificação de formulário de contato usando JQUERY        |
+| [contact-material](https://github.com/cleibp/contact-material)                    | Exemplificação de formulário de contato usando Material Design      |
+| [contact-bootstrap](https://github.com/cleibp/contact-bootstrap)                  | Exemplificação de formulário de contato usando Bootstrap        |
+| [basic-jquery](https://github.com/cleibp/basic-jquery)                            | Exemplificação da sintaxe basica usando JQUERY             |
+| [basic-js](https://github.com/cleibp/basic-js)                                    | Exemplificação da sintaxe basica usando JAVASCRIPT         |
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
 | [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
 
