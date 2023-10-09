@@ -21,7 +21,7 @@
 | [basic-kotlin](https://github.com/cleibp/basic-kotlin)                            | Exemplificação da sintaxe geral e básica da Linguagem Kotlin                |
 | [basic-dart](https://github.com/cleibp/basic-dart)                                | Exemplificação da sintaxe geral e básica da Linguagem Dart                  |
 | [basic-rust](https://github.com/cleibp/basic-rust)                                | Exemplificação da sintaxe geral e básica da Linguagem Rust                  |
-| [basic-rust](https://github.com/cleibp/basic-swift)                                | Exemplificação da sintaxe geral e básica da Linguagem Swift                |
+| [basic-swift](https://github.com/cleibp/basic-swift)                              | Exemplificação da sintaxe geral e básica da Linguagem Swift                 |
 | [poo-cplusplus](https://github.com/cleibp/poo-cplusplus)                          | Exemplificação de POO em C++                                                |
 | [poo-csharp](https://github.com/cleibp/poo-csharp)                                | Exemplificação de POO em C#                                                 |
 | [poo-java](https://github.com/cleibp/poo-java)                                    | Exemplificação de POO em Java                                               |
