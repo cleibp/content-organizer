@@ -74,6 +74,11 @@
 | [game-google-vanilla](https://github.com/cleibp/game-google-vanilla)              | Exemplificação de aplicação de jogo do google offline usando vanilla ou Javascript puro          |
 | [sort-number-vanilla](https://github.com/cleibp/sort-number-vanilla)              | Exemplificação de aplicação de sorteador usando vanilla ou Javascript puro          |
 | [pomo-vanilla](https://github.com/cleibp/pomo-vanilla)                            | Exemplificação de aplicação de pomodoro usando vanilla ou Javascript puro         |
+| [sass-css](https://github.com/cleibp/sass-css)                                    | Exemplificação do pré-processador CSS denominado SASS         |
+| [less-css](https://github.com/cleibp/less-css)                                    | Exemplificação do pré-processador CSS denominado LESS         |
+| [stylus-css](https://github.com/cleibp/stylus-css)                                | Exemplificação do pré-processador CSS denominado STYLUS         |
+| [halm-html](https://github.com/cleibp/halm-html)                                  | Exemplificação do pré-processador HTML denominado HALM       |
+| [pug-html](https://github.com/cleibp/pug-html)                                    | Exemplificação do pré-processador HTML denominado PUG        |
 | [underConstruction](https://github.com/cleibp/underConstruction)                  | Modelo template padrão página em construção                |
 | [layoutCSSGrid](https://github.com/cleibp/layoutCSSGrid)                          | Layout construído com CSS Grid                             |
 
