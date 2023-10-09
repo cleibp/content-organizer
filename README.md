@@ -13,7 +13,7 @@
 | [basic-java](https://github.com/cleibp/basic-java)                                | Exemplificação da sintaxe geral e básica da Linguagem Java                                                |
   
   
-  ### 🌐 WEB (Back e Front)
+  ### 🌐 WEB (Back)
 | Nome                                                                              | Descrição Curta                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST Node de Notícias                           |
