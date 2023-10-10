@@ -4,7 +4,7 @@
   
 ### 🖥️ DESKTOP / LINGUAGENS
   
-| Nome                                                                              | Descrição Curta                                            |
+| Nome                                                                              | Descrição                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [basic-pascal](https://github.com/cleibp/basic-pascal)                            | Exemplificação da sintaxe geral e básica da Linguagem Pascal                |
 | [basic-c](https://github.com/cleibp/basic-c)                                      | Exemplificação da sintaxe geral e básica da Linguagem C                     |
@@ -39,13 +39,13 @@
   
   
   ### 🌐 BACKEND
-| Nome                                                                              | Descrição Curta                                            |
+| Nome                                                                              | Descrição                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST Node de Notícias                           |
 
 
 ### 🌐 FRONTEND
-| Nome                                                                              | Descrição Curta                                            |
+| Nome                                                                              | Descrição                                             |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [portfolio](https://github.com/cleibp/portfolio)                                  | Portfólio                                                  |
 | [social-card](https://github.com/cleibp/social-card)                              | Portfólio                                                  |
@@ -120,13 +120,13 @@
 
 
   ### 📱 MOBILE
-| Nome                                                                              | Descrição Curta                                            |
+| Nome                                                                              | Descrição                                             |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 |                                                                                   |                                                            |
 
 
   ### 🗒 DOC
-| Nome                                                                              | Descrição Curta                                            |
+| Nome                                                                              | Descrição                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [content-organizer](https://github.com/cleibp/content-organizer)                  | Organizador de Conteúdo                                    |
 | [knowledgeBase](https://github.com/cleibp/knowledgeBase)                          | Base de conhecimento contendo sintaxe de algumas linguagens|
@@ -146,7 +146,7 @@
 
 
   ### 🔧 FORKS
-| Nome                                                                              | Descrição Curta                                            |
+| Nome                                                                              | Descrição                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [kube-news](https://github.com/cleibp/kube-news)                                  | KUBERNETES                                                 |
 | [conversao-temperatura](https://github.com/cleibp/conversao-temperatura)          | Conversor de temperatura                                   |
