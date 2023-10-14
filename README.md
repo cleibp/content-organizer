@@ -5,7 +5,7 @@
 ### 🖥️ DESKTOP / LINGUAGENS
 
 
-#### ✨ Pascal
+#### ✨ ![General badge](https://img.shields.io/badge/PASCAL--<>.svg)
 
 ##### ✍️ Descrição
 **Pascal é uma linguagem de programação estruturada, que recebeu este nome em homenagem ao matemático e físico Blaise Pascal. Foi criada em 1970 pelo suíço Niklaus Wirth, tendo em mente encorajar o uso de código estruturado.**
@@ -41,7 +41,7 @@ O cabeçalho de um programa é atribuído pela instrução program seguida de um
 | [basic-pascal](https://github.com/cleibp/basic-pascal)                            | Exemplificação da sintaxe geral e básica da Linguagem Pascal                |
 
 ______________________________
-#### ✨ C
+#### ✨ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ##### ✍️ Descrição
 **C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada por Organização Internacional para Padronização, criada em 1972 por Dennis Ritchie na empresa AT&T Bell Labs para desenvolvimento do sistema operacional Unix.**
@@ -66,7 +66,7 @@ ______________________________
 | [basic-c](https://github.com/cleibp/basic-c)                                      | Exemplificação da sintaxe geral e básica da Linguagem C                     |
 
 ______________________________
-#### ✨ C++
+#### ✨ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ##### ✍️ Descrição
 **C++ é uma linguagem de programação compilada multi-paradigma e de uso geral. Desde os anos 1990 é uma das linguagens comerciais mais populares, sendo bastante usada também na academia por seu grande desempenho e base de utilizadores.**
@@ -89,7 +89,7 @@ ______________________________
 | [poo-cplusplus](https://github.com/cleibp/poo-cplusplus)                          | Exemplificação de POO em C++                                                |
 
 ______________________________
-#### ✨ C#
+#### ✨ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ##### ✍️ Descrição
 **C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET.**
@@ -108,7 +108,7 @@ ______________________________
 | [poo-csharp](https://github.com/cleibp/poo-csharp)                                | Exemplificação de POO em C#                                                 |
 
 ______________________________
-#### ✨ JAVA
+#### ✨ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ##### ✍️ Descrição
 **Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems. Em 2008 o Java foi adquirido pela empresa Oracle Corporation. Baseada em C, OO criada pela SUN Microsystem por meio do projeto Green chefiado por James Gosling. maskote duke, multiplataforma**
@@ -133,7 +133,7 @@ ______________________________
 | [poo-java](https://github.com/cleibp/poo-java)                                    | Exemplificação de POO em Java                                               |
 
 ______________________________
-#### ✨ JAVASCRIPT/NODE
+#### ✨ ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) / ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ##### ✍️ Descrição
 **JavaScript é a linguagem de programação mais popular do mundo. JavaScript é a linguagem de programação da Web. JavaScript é fácil de aprender.
@@ -173,7 +173,7 @@ JavaScript é uma linguagem de programação interpretada estruturada, de script
 | [poo-node](https://github.com/cleibp/poo-node)                                    | Exemplificação de POO em Node                                               |
 
 ______________________________
-#### ✨ PHP
+#### ✨ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ##### ✍️ Descrição
 **PHP (um acrônimo recursivo para "PHP: Hypertext Preprocessor", originalmente Personal Home Page) é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor. Criado por Rasmus Lerdorf em 1995. Fracamente tipada.**
@@ -205,7 +205,7 @@ ______________________________
 | [poo-php](https://github.com/cleibp/poo-php)                                      | Exemplificação de POO em PHP                                                |
 
 ______________________________
-#### ✨ PERL
+#### ✨ ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 
 ##### ✍️ Descrição
 **Perl é uma família de duas linguagens de programação multiplataforma, Perl 5 e Perl 6**
@@ -228,7 +228,7 @@ ______________________________
 | [poo-perl](https://github.com/cleibp/poo-perl)                                    | Exemplificação de POO em Perl                                               |
 
 ______________________________
-#### ✨ PYTHON
+#### ✨ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ##### ✍️ Descrição
 **Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.**
@@ -256,7 +256,7 @@ ______________________________
 | [poo-python](https://github.com/cleibp/poo-python)                                | Exemplificação de POO em Python                                             |
 
 ______________________________
-#### ✨ RUBY
+#### ✨ ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ##### ✍️ Descrição
 **Ruby é uma linguagem de programação interpretada multiparadigma, de tipagem dinâmica e forte, com gerenciamento de memória automático, originalmente planejada e desenvolvida no Japão em 1995, por Yukihiro "Matz" Matsumoto, para ser usada como linguagem de script.**
@@ -287,7 +287,7 @@ ______________________________
 | [poo-ruby](https://github.com/cleibp/poo-ruby)                                    | Exemplificação de POO em Ruby                                               |
 
 ______________________________
-#### ✨ LUA
+#### ✨ ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ##### ✍️ Descrição
 **Lua é uma linguagem de script de multiparadigma, pequena, reflexiva e leve, projetada para expandir aplicações em geral, por ser uma linguagem extensível, para prototipagem e para ser embarcada em softwares complexos, como jogos. Assemelha-se com Python, Ruby entre outras.**
@@ -307,7 +307,7 @@ ______________________________
 | [poo-lua](https://github.com/cleibp/poo-lua)                                      | Exemplificação de POO em Lua                                                |
 
 ______________________________
-#### ✨ GO
+#### ✨ ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ##### ✍️ Descrição
 **Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente, baseada em trabalhos feitos no sistema operacional chamado Inferno.**
@@ -375,7 +375,7 @@ ______________________________
 | [poo-kotlin](https://github.com/cleibp/poo-kotlin)                                | Exemplificação de POO em Kotlin                                             |
 
 ______________________________
-#### ✨ DART
+#### ✨ ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ##### ✍️ Descrição
 **Dart é uma linguagem de script voltada à web desenvolvida pela Google. Ela foi lançada na GOTO Conference 2011, que aconteceu de 10 a 11 de outubro de 2011 em Aarhus, na Dinamarca. O objetivo da linguagem Dart foi inicialmente a de substituir a JavaScript como a linguagem principal embutida nos navegadores.**
@@ -396,7 +396,7 @@ ______________________________
 | [basic-dart](https://github.com/cleibp/basic-dart)                                | Exemplificação da sintaxe geral e básica da Linguagem Dart                  |
 | [poo-dart](https://github.com/cleibp/poo-dart)                                    | Exemplificação de POO em Dart                                               |
 
-### ✨ SWIFT
+### ✨ ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 #### ✍️ Descrição
 **Swift é uma linguagem de programação desenvolvida pela Apple para desenvolvimento no iOS, macOS, watchOS, tvOS, Windows e Linux. Swift foi desenvolvida para manter compatibilidade com a API Cocoa e com código existente em Objective-C. O compilador usa a infraestrutura do LLVM e é distribuído junto do Xcode desde a versão 6.**
