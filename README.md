@@ -538,7 +538,6 @@ ______________________________
 | [linux-guide](https://github.com/cleibp/linux-guide)                              | Exemplo Básico de comandos linux                           |
 | [git-guide](https://github.com/cleibp/git-guide)                                  | Exemplo Básico de comandos git                             |
 | [commits-guide](https://github.com/cleibp/commits-guide)                          | Exemplo Básico de commits                                  |
-| [version-guide](https://github.com/cleibp/version-guide)                          | Exemplo Básico de versão                                   |
 | [sql-guide](https://github.com/cleibp/sql-guide)                                  | Exemplo Básico de comandos SQL                             |
 | [vagrant-guide](https://github.com/cleibp/vagrant-guide)                          | Exemplo Básico de comandos Vagrant                         |
 | [docker-guide](https://github.com/cleibp/docker-guide)                            | Exemplo Básico de comandos Docker                          |
