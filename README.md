@@ -256,6 +256,7 @@ ______________________________
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------                  |
 | [basic-python](https://github.com/cleibp/basic-python)                            | Exemplificação da sintaxe geral e básica da Linguagem Python                |
 | [poo-python](https://github.com/cleibp/poo-python)                                | Exemplificação de POO em Python                                             |
+| [Códigos](https://replit.com/@cleibp/Code-Python)                                 | Exemplo de codigos python                                                   |
 
 ______________________________
 #### ✨ ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
