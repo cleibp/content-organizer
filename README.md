@@ -171,6 +171,8 @@ JavaScript é uma linguagem de programação interpretada estruturada, de script
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------                  |
 | [basic-node](https://github.com/cleibp/basic-node)                                | Exemplificação da sintaxe geral e básica da Linguagem Node                  |
 | [poo-node](https://github.com/cleibp/poo-node)                                    | Exemplificação de POO em Node                                               |
+| [Códigos](https://github.com/cleibp/code-javascript)                              | Exemplo de códigos em js                                                    |
+
 
 ______________________________
 #### ✨ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
