@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 Organizador de Conteúdo </h1>
 
-## 🤖 Categorias:
+## 🤖 
   
 ### 🖥️ DESKTOP / LINGUAGENS
 
